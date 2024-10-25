@@ -3,6 +3,6 @@
 *.spec
 result.json
 build.bat
-
+install.ps1
 /build
 /dist
