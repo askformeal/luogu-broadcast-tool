@@ -1,5 +1,6 @@
 *.exe
 *.ico
 result.json
+build.bat
 /build
 /dist
