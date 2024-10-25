@@ -1,4 +1,5 @@
 *.exe
 *.ico
+result.json
 /build
 /dist
