@@ -7,3 +7,4 @@ install.ps1
 /build
 /dist
 /get_team_membersv1.0.0
+*.zip
