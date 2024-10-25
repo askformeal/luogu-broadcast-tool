@@ -2,7 +2,6 @@ import requests
 import json
 import pyperclip
 
-cookie = '__client_id=627f4c1bf139fa5ef97dab418b44481b3c60cdd1;_uid=787042;C3VK=3c2971'
 headers = {'User-Agent': 
            'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36 Edg/130.0.0.0',}
 print('洛谷团队群发机，demons1014出品')
