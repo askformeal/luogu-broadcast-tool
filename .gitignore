@@ -3,5 +3,6 @@
 *.spec
 result.json
 build.bat
+
 /build
 /dist
