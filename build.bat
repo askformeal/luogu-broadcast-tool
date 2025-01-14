@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=luogu.ico --name=broadcast .\broadcast.py

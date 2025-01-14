@@ -1,10 +1,7 @@
 *.exe
-*.ico
 *.spec
-result.json
-build.bat
-install.ps1
+*.json
+install.bat
 /build
 /dist
-/get_team_membersv1.0.0
 *.zip
